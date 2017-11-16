@@ -23,7 +23,10 @@ h1,h2,h3,h4,h5,h6,p{line-height:1.5em;}
 .txt-center{	text-align: center;}
 .section-sep{	padding: 30px;  }
 .pad-v20{padding-top:20px; padding-bottom:20px;}
-.pad-v10{padding-top:10px; padding-bottom:20px;}
+.pad-v10{padding-top:10px; padding-bottom:10px;}
+.pad-v50{padding-top:50px; padding-bottom:50px;}
+.pad-v150{padding-top:150px; padding-bottom:150px;}
+
 .underline{text-decoration: underline;}
 
 /* COLORS and SHADOWS*/
@@ -257,8 +260,22 @@ nav{
 }
 
 
+/* NAV-2 */
 
-/* GUIDELINES BORDER - ERASE IT LATER 
+.nav-2{
+	justify-content: space-between;
+}
+
+.nav-2-menu ul{
+	justify-content: flex-end
+}
+
+.nav-2-menu ul a{
+	padding:0 0 0 20px;
+	margin-left:20px;
+}
+
+/* GUIDELINES BORDER - ERASE IT LATER  
 
 .red-b{border: 2px outset red;}
 .blue-b{border: 2px outset blue;}
@@ -269,4 +286,4 @@ nav{
 .pink-b{border: 2px outset pink;}
 .white-b{border: 2px outset white;}
 
-*/ 
+*/
