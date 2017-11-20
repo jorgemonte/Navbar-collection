@@ -180,6 +180,9 @@ nav{
 	border-bottom:1px solid rgba(77,77,77,0.2);
 }
 
+main{
+	padding: 500px 0;
+}
 
 
 .nav-menu,
@@ -273,6 +276,13 @@ nav{
 .nav-2-menu ul a{
 	padding:0 0 0 20px;
 	margin-left:20px;
+}
+
+/* NAV-3 */
+
+.nav-3{
+	width:80%;
+	margin:0 auto;
 }
 
 /* GUIDELINES BORDER - ERASE IT LATER  
