@@ -285,6 +285,16 @@ main{
 	margin:0 auto;
 }
 
+/* NAV-5 */
+
+.nav-menu-social-v5{
+	justify-content: flex-start;
+}
+
+.nav-menu-v5 ul{
+	justify-content: flex-end;
+}
+
 /* GUIDELINES BORDER - ERASE IT LATER  
 
 .red-b{border: 2px outset red;}
