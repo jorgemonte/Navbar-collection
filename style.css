@@ -301,6 +301,12 @@ main{
 	color:blue;
 }
 
+/* NAV-7 */
+
+.nav-7-menu a:hover{
+	color:white;
+}
+
 /* GUIDELINES BORDER - ERASE IT LATER  
 
 .red-b{border: 2px outset red;}
